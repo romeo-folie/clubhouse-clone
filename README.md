@@ -6,7 +6,7 @@ A clubhouse concept design implementation with react-native.
 
 ## Screenshots
 
-|                      |                      |
+|                             |                             |
 | --------------------------- | --------------------------- |
 | ![Image](screenshots/1.jpg) | ![Image](screenshots/3.jpg) |
 | ![Image](screenshots/2.jpg) | ![Image](screenshots/4.jpg) |
